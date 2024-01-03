@@ -8,9 +8,9 @@
 		<relativePath/>
 	</parent>
 	 <groupId>br.com.spring.kafka.consumer.payments</groupId>
-	  <artifactId>spring-kafka-payments</artifactId>
+	  <artifactId>spring-kafka-payments-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-kafka-payments</name>
+	<name>spring-kafka-payments-consumer</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
