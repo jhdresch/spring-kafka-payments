@@ -7,7 +7,7 @@
 		<version>2.7.5</version>
 		<relativePath/>
 	</parent>
-	 <groupId>br.com.spring.kafka.consumer.payments</groupId>
+	 <groupId>br.com.spring.kafka.producer.payments</groupId>
 	  <artifactId>spring-kafka-payments-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-kafka-payments-producer</name>
