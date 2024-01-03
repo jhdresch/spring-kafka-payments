@@ -1,4 +1,4 @@
-package br.com.spring.kafka.consumer.payments.config;
+package br.com.spring.kafka.producer.payments.config;
 
 import java.util.HashMap;
 

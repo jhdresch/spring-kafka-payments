@@ -1,4 +1,4 @@
-package br.com.spring.kafka.consumer.payments.entrypoint.model;
+package br.com.spring.kafka.producer.payments.entrypoint.model;
 
 import java.io.Serializable;
 

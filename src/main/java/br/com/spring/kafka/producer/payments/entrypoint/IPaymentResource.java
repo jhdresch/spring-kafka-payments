@@ -1,10 +1,10 @@
-package br.com.spring.kafka.consumer.payments.entrypoint;
+package br.com.spring.kafka.producer.payments.entrypoint;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import br.com.spring.kafka.consumer.payments.entrypoint.model.Pagamento;
+import br.com.spring.kafka.producer.payments.entrypoint.model.Pagamento;
 
 public interface IPaymentResource {
 	

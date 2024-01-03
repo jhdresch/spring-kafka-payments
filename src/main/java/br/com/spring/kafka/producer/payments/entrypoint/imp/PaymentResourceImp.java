@@ -1,4 +1,4 @@
-package br.com.spring.kafka.consumer.payments.entrypoint.imp;
+package br.com.spring.kafka.producer.payments.entrypoint.imp;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -6,9 +6,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.spring.kafka.consumer.payments.core.usecase.IPagamentoUseCase;
-import br.com.spring.kafka.consumer.payments.entrypoint.IPaymentResource;
-import br.com.spring.kafka.consumer.payments.entrypoint.model.Pagamento;
+import br.com.spring.kafka.producer.payments.core.usecase.IPagamentoUseCase;
+import br.com.spring.kafka.producer.payments.entrypoint.IPaymentResource;
+import br.com.spring.kafka.producer.payments.entrypoint.model.Pagamento;
 
 @RestController
 @RequestMapping("/payments")

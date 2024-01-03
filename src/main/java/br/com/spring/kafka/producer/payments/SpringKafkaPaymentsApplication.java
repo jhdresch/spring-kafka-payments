@@ -1,4 +1,4 @@
-package br.com.spring.kafka.consumer.payments;
+package br.com.spring.kafka.producer.payments;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
